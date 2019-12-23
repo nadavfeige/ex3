@@ -1,3 +1,2 @@
-# ex3osjoipsdaknnm,dsadsakhdjsagFASDHGFHGHGH
-DNSJAGJDKHAS
-SADSADS
+# ex3
+new int r = 7;
